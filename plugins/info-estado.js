@@ -22,11 +22,11 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'Readz Aleizn';
+  const wm = '𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔';
   const info = ` _*< INFO - ESTADO />*_
 
- [🤴🏻] *Prop.:* Readz Aleizn
- [#️⃣] *WA:* wa.me/51992621601
+ [🤴🏻] *Prop.:* 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔
+ [#️⃣] *WA:* wa.me/+5215541450348
 
  [💡] *Ping:* ${rtime}
  [🚀]*Uptime:* ${uptime}
@@ -56,7 +56,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY` },
+    document: { url: `https://chat.whatsapp.com/In9Sjk9rGnUAE0oLnigkGB` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -65,13 +65,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+        mediaUrl: "https://chat.whatsapp.com/In9Sjk9rGnUAE0oLnigkGB",
         mediaType: 2,
         previewType: "pdf",
-        title: "Readz Aleizn",
-        body: "Readz Aleizn",
+        title: "𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔",
+        body: "𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔",
         thumbnail: imagen1,
-        sourceUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+        sourceUrl: "https://chat.whatsapp.com/In9Sjk9rGnUAE0oLnigkGB",
       },
     },
     caption: info,
